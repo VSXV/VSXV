@@ -9,29 +9,29 @@
 __________________________________________________________________________________________________________________________
 
 
-<h3 align="left">Other profiles:</h3>
+<h3 align="left">Мои профили:</h3>
 <p align="left">
 <a href="https://kaggle.com/vsxvmk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vsxvmk1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vsxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vsxv" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Языки и инструменты:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
 
-<p align="center"> Kaggle Competitions </p align="center">
+<p align="center"> Соревнования Kaggle </p align="center">
 
 
 | **Проект** | **Описание исследования** | **Библиотеки** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [1. Home credit bank](https://github.com/VSXV/Kaggle/blob/main/1.%20home%20credit%202024/home-credit-2024.ipynb)| The goal of this competition is to determine how likely a customer is going to default on an issued loan. [Kaggle competition code](https://www.kaggle.com/code/vsxvmk1/home-credit-2024-starter-notebook).|LightGBM, Numpy, Pandas, Polars, Sklearn|
+| [1. Home credit bank](https://github.com/VSXV/Kaggle/blob/main/1.%20home%20credit%202024/home-credit-2024.ipynb)| Цель этого соревнования - определить, насколько вероятно, что клиент не выплатит долг по выданному кредиту. [Kaggle competition code](https://www.kaggle.com/code/vsxvmk1/home-credit-2024-starter-notebook).|LightGBM, Numpy, Pandas, Polars, Sklearn|
 
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
 
 
-<p align="center"> Pet-projects </p align="center">
+<p align="center"> Pet-проекты </p align="center">
 
 
 | **Проект** | **Описание исследования** | **Библиотеки** |
