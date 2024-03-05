@@ -9,7 +9,7 @@
 __________________________________________________________________________________________________________________________
 
 
-<h3 align="left">Othet profiles:</h3>
+<h3 align="left">Other profiles:</h3>
 <p align="left">
 <a href="https://kaggle.com/vsxvmk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vsxvmk1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vsxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vsxv" height="30" width="40" /></a>
