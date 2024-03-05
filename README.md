@@ -7,6 +7,26 @@
 
 Всегда открыт для обсуждения новых идей, возможностей для совместной работы и способов применения Data Science для решения реальных проблем. С радостью присоединюсь к сообществу специалистов по данным и с нетерпением жду своего первого профессионального опыта в этой области. Давайте делиться знаниями и вместе двигаться вперед!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vsxv&label=Profile%20views&color=0e75b6&style=flat" alt="vsxv" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsxv" alt="vsxv" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/vsxvmk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vsxvmk1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vsxv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vsxv" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsxv&show_icons=true&locale=en&layout=compact" alt="vsxv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsxv&show_icons=true&locale=en" alt="vsxv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsxv&" alt="vsxv" /></p>
+
+
 <a id='link1'></a>
 <p align="center"> Kaggle Competitions </p align="center">
 
@@ -24,7 +44,7 @@ ________________________________________________________________________________
 
 | **Проект** | **Описание исследования** | **Библиотеки** |
 | -------------------- | :--------------------- |:---------------------------:|
-| [1. Предсказание стоимости объекта недвижимости]| Предсказание стоимости объекта недвижимости на торговой площадке и на рынке. Поиск самых маржинальных объектов для инвестирования.|CatBoost, FastAPI, Pandas, Docker, Parsing|
+| 1. Предсказание стоимости объекта недвижимости| Предсказание стоимости объекта недвижимости на торговой площадке и на рынке. Поиск самых маржинальных объектов для инвестирования.|CatBoost, FastAPI, Pandas, Docker, Parsing|
 
 <a href="#link1"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
 __________________________________________________________________________________________________________________________
